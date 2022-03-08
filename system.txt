@@ -1,0 +1,7 @@
+d:\Users\Administrateur\Desktop\formation_python_qgis
+d:\Users\Administrateur\AppData\Local\Programs\Python\Python39\python39.zip
+d:\Users\Administrateur\AppData\Local\Programs\Python\Python39\DLLs
+d:\Users\Administrateur\AppData\Local\Programs\Python\Python39\lib
+d:\Users\Administrateur\AppData\Local\Programs\Python\Python39
+d:\Users\Administrateur\AppData\Roaming\Python\Python39\site-packages
+d:\Users\Administrateur\AppData\Local\Programs\Python\Python39\lib\site-packages
