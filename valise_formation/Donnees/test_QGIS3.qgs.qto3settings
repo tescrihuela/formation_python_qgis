@@ -1,0 +1,62 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 2,
+      "layerId": "zone_troncon_hydrographie20160421111713833",
+      "name": "zone_troncon_hydrographie",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "zone_commune_densite20160421111900231",
+      "name": "zone_commune_densite",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "zone_commune_autres_ponctuels20160421112742718",
+      "name": "zone_commune_autres_ponctuels",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "zone_commune_autres20160421112050028",
+      "name": "zone_commune_autres",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "n_parcelle_travail_dgi_chasse_3613120160421110428321",
+      "name": "n_parcelle_travail_dgi_chasse_36131",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "comboBox_ClipLayer": "zone_commune_densite20160421111900231",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Color": "",
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    }
+  ]
+}

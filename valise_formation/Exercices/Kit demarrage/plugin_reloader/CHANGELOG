@@ -1,0 +1,32 @@
+0.7.3
+Update to recent API changes. Thanks to Francisco Raga, olivierh65 and Heikki Vesanto.
+Improve GUI strings
+
+0.7.2
+Restore QGIS UI state after reloading (backport changes from 0.6.4). Path by GeorchW.
+Push a message to the main QgsMessageBar after reloading.
+Fixed tool button removing when unloading the plugin reloader itself.
+
+0.7.1
+Set compatibility to QGIS version range 2.99 - 3.99
+
+0.7
+Python3 and PyQt5 compatible. Path by Denis Rouzaud.
+Version for QGIS 2.99 only
+
+0.6.4
+Restore QGIS UI state after reloading. Path by GeorchW.
+Version for QGIS 1.8 up to 2.98
+
+0.6.3
+Both actions grouped into a single toolbutton with a menu. Path by Ricardo Garcia Silva.
+Last version compatible with QGIS < 1.8
+
+0.6.2
+Metadata fix
+
+0.6.1
+Also tell QGIS about the compatibility with QGIS 2 :)
+
+0.6
+Compatible with SIP API v2 (thanks to Etienne Tourigny)
