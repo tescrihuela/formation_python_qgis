@@ -1,0 +1,7 @@
+C:\MOC_Q3_FORMATEUR\Exercices\Exo_path
+d:\Users\cvrh.rouen\AppData\Local\Programs\Python\Python39\python39.zip
+d:\Users\cvrh.rouen\AppData\Local\Programs\Python\Python39\DLLs
+d:\Users\cvrh.rouen\AppData\Local\Programs\Python\Python39\lib
+d:\Users\cvrh.rouen\AppData\Local\Programs\Python\Python39
+d:\Users\cvrh.rouen\AppData\Local\Programs\Python\Python39\lib\site-packages
+D:\CMSIG\1 - National

@@ -1,0 +1,26 @@
+[general]
+name = MAQUETTE COMPLETE (Outils)
+description=Maquette complete pour la formation Python 4 QGIS3
+category = Tools
+version=3.0
+qgisMinimumVersion=3.0
+# Optional items:
+changelog:
+    =======================================
+    ** 3.0.0 : Didier LECLERC CMSIG DON
+               Version sous Qgis 3
+              - Formation Python pour Qgis 3
+    =======================================
+  
+tags= Tools, Python 4 QGIS3
+homepage=http://geo-info.metier.i2
+tracker=http://geo-info.metier.i2
+repository=http://geo-info.metier.i2
+icon=icons/extension.png 
+experimental=False
+deprecated=False
+
+# Author contact information
+author=Didier LECLERC - CP2I DO Nord / Hauts de France, Normandie et Outre-mer atlantique
+email=didier.leclerc@developpement-durable.gouv.fr
+class_name=TestPlugin
